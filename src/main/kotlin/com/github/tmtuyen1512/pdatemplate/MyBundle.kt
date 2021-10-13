@@ -1,4 +1,4 @@
-package org.jetbrains.plugins.template
+package com.github.tmtuyen1512.pdatemplate
 
 import com.intellij.DynamicBundle
 import org.jetbrains.annotations.NonNls
